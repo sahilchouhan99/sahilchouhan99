@@ -33,6 +33,9 @@ I build AI-powered applications using Large Language Models (LLMs), Retrieval-Au
 
 ### 📂 Featured Projects
 
+#### 🤖 Gita Jyoti
+AI-powered Bhagavad Gita wisdom assistant using LangGraph, C-RAG, and Groq.
+
 #### 🤖 AI Blog Writer Agent
 AI-powered content generation using LangGraph and Groq.
 

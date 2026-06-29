@@ -45,6 +45,9 @@ Detects phishing and fake news using Langgrap and Groq.
 #### 🐶 Cow Breed Classification System
 Image classification system powered by MobileNetV2 and AI Chatbot assistance.
 
+#### 📝 AI UPSC Essay Evaluation System
+Multi-agent AI system powered by LangGraph, LangChain, and Llama 3.1 for automated UPSC essay evaluation with detailed feedback and scoring.
+
 ### 📈 GitHub Stats
 
 - AI Projects

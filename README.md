@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sahil Chouhan
 
-## 🚀 AI Engineer & Python Developer
+## 🚀 Agentic Ai & Python Developer
 
 I build AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI frameworks.
 

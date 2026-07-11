@@ -51,6 +51,9 @@ Multi-agent AI system powered by LangGraph, LangChain, and Llama 3.1 for automat
 #### 🚀 YouTube RAG Chatbot
 Multi-agent AI chatbot powered by LangGraph, LangChain, and Llama 3.1 for intelligent conversations with YouTube videos using RAG.
 
+#### 🧠 Self-RAG System
+A Self-RAG pipeline built with LangGraph and Groq that retrieves, evaluates, and refines responses using self-reflection for more accurate and reliable answers.
+
 ### 📈 GitHub Stats
 
 - AI Projects

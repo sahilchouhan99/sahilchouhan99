@@ -54,9 +54,6 @@ Multi-agent AI chatbot powered by LangGraph, LangChain, and Llama 3.1 for intell
 #### 🧠 Self-RAG System
 A Self-RAG pipeline built with LangGraph and Groq that retrieves, evaluates, and refines responses using self-reflection for more accurate and reliable answers.
 
-####🏋️ AI Gym Trainer Assistant
-Multi-agent AI fitness coach powered by LangGraph, LangChain, and Llama 3.3 for personalized workout plans, nutrition guidance, progress tracking, and fitness recommendations.
-
 ### 📈 GitHub Stats
 
 - AI Projects

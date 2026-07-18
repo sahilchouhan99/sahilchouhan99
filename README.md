@@ -16,7 +16,6 @@ I build AI-powered applications using Large Language Models (LLMs), Retrieval-Au
 - Matplotlib
 
 #### AI & Machine Learning
-- Machine Learning
 - LangChain
 - LangGraph
 - LangSmith

@@ -67,7 +67,6 @@ A multi-agent AI Gym Trainer Assistant built with LangGraph and Groq that provid
 
 - Master Advanced RAG
 - Build Production AI Agents
-- Contribute to Open Source
 - Learn MLOps & Deployment
 
 ### 📫 Connect With Me

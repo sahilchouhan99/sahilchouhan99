@@ -38,9 +38,6 @@ AI-powered Bhagavad Gita wisdom assistant using LangGraph, C-RAG, and Groq.
 #### 🤖 AI Blog Writer Agent
 AI-powered content generation using LangGraph and Groq.
 
-#### 🔍 Fake news Detector
-Detects phishing and fake news using Langgrap and Groq.
-
 #### 🐶 Cow Breed Classification System
 Image classification system powered by MobileNetV2 and AI Chatbot assistance.
 

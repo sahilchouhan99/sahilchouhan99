@@ -53,6 +53,9 @@ A Self-RAG pipeline built with LangGraph and Groq that retrieves, evaluates, and
 #### 🏋️ AI Gym Trainer Assistant
 A multi-agent AI Gym Trainer Assistant built with LangGraph and Groq that provides personalized workout plans, nutrition guidance, fitness calculations, and user-specific recommendations.
 
+#### 🔍 Fake news Detector
+Detects phishing and fake news using Langgrap and Groq.
+
 ### 📈 GitHub Stats
 
 - AI Projects
